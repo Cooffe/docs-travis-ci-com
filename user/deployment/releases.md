@@ -243,7 +243,7 @@ after_deploy:
   - ./after_deploy_1.sh
   - ./after_deploy_2.sh
 ```
-{: data-file=".travis.yml"}
+{: data-file=" /.travis.yml"}
 
 ## Advanced options
 
